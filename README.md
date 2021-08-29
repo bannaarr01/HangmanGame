@@ -12,7 +12,7 @@ Single Player Hangman game developed using JAVA and MYSQL
 
 
 ## Game Simple Demo
-ttps://youtu.be/3eTVlqDh-A8
+https://youtu.be/3eTVlqDh-A8
 
 
 
